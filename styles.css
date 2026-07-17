@@ -26,9 +26,9 @@ header nav .nav-bar .link{
 }
 header nav .nav-bar .link h3{
    font-family: "Cormorant Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: 500px;
-  font-style: normal;
+   font-optical-sizing: auto;
+   font-weight: 500px;
+   font-style: normal;
 
 }
 header nav .nav-bar .btn{
@@ -52,9 +52,8 @@ header nav .nav-bar .btn .ln .login  button{
     border-radius: 15px;
     border: none;
     font-family: "Cormorant Garamond", serif;
-  font-optical-sizing: auto;
-  
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-style: normal;
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700px;
