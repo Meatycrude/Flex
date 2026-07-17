@@ -60,7 +60,7 @@ Cloning downloads your personal copy of the project from GitHub onto your comput
    ```
 5. Run the clone command by pasting your URL:
    ```bash
-   git clone <PASTE_YOUR_COPIED_URL_HERE>
+   git clone https://github.com/Meatycrude/Flex.git
    ```
 6. Open the newly created project folder in your code editor (like VS Code) and start experimenting!
 
