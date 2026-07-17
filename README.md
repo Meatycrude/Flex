@@ -66,7 +66,7 @@ Cloning downloads your personal copy of the project from GitHub onto your comput
 
 ---
 
-## 🎯 Next Steps for Students
+## 🎯 Next Steps for Students{start a new project }
 * Change the `justify-content` values in the CSS file to see how boxes move.
 * Switch `flex-direction` from `row` to `column` to see the axes flip.
 * Try creating a perfectly centered navigation bar or card layout!
