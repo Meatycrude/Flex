@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: rgba(71, 149, 204, 0.683);
+    padding: 5px;
+    width: 100%;
+    box-shadow: 0px 4px 6px -1px black;
+}
+header nav{
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    padding-top: 12px;
+}
+header nav .nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav .nav-bar .link{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+header nav .nav-bar .link h3{
+   font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+
+}
+header nav .nav-bar .btn{
+    width: 50%;
+    
+
+}
+header nav .nav-bar .btn .ln{
+    display: flex;
+    justify-content: end;
+    padding-right: 20px;
+
+}
+header nav .nav-bar .btn .ln .login {
+    padding-right: 20px;
+
+}
+header nav .nav-bar .btn .ln .login  button{
+    height: 30px;
+    width: 70px;
+    border-radius: 15px;
+    border: none;
+    font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+    border-bottom: 1px solid black ;
+}
+header nav .nav-bar .btn .ln .sign-up  button{
+    height: 30px;
+    width: 70px;
+    border-radius: 15px;
+    border: none;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+    border-bottom: 1px solid black ;
+}
